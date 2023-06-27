@@ -1,6 +1,10 @@
 {
   "name": "@paypal/checkout-components",
+<<<<<<< HEAD
   "version": "5.0.275",
+=======
+  "version": "5.0.265",
+>>>>>>> parent of de4c26c2 (chore(release): 5.0.266 🎉)
   "description": "PayPal Checkout components, for integrating checkout products.",
   "main": "index.js",
   "scripts": {

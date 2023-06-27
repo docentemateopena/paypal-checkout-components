@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## <small>5.0.275 (2023-06-23)</small>
 
 * fix(venmo): eligibility (#2197) ([6272fe8](https://github.com/paypal/paypal-checkout-components/commit/6272fe8)), closes [#2197](https://github.com/paypal/paypal-checkout-components/issues/2197)
@@ -58,6 +59,8 @@
 
 
 
+=======
+>>>>>>> parent of de4c26c2 (chore(release): 5.0.266 🎉)
 ## <small>5.0.265 (2023-04-12)</small>
 
 * chore: remove __FUNDING_ELIGIBILITY__ global (#2144) ([ef9240d](https://github.com/paypal/paypal-checkout-components/commit/ef9240d)), closes [#2144](https://github.com/paypal/paypal-checkout-components/issues/2144)
